@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd change_owner_and_group vincent staff 
+pwd chgrp chown vincent staff 
